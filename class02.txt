@@ -1,0 +1,3 @@
+npx 
+
+code . stand for current directory.

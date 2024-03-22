@@ -1,0 +1,14 @@
+
+
+
+command,   "tsc --init". for making (ts config) file and make three changes in file
+line No.14. version update type "ES 2022";
+line No.28. module: "NodeNext",
+line NO.30. remove // and then type "NodeNext", .
+
+command "npm i inquirer"  for installation in cmd.
+ and use for Question / Answer 
+and make the file "node_modules / packeg-lock.json.
+
+command  "npm i --save-dev@types/inquirer" changing in packeg.json file.
+ 
